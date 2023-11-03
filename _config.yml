@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/palash1-gupta/">LinkedIn</a> |
+  <a href="https://github.com/gupta-palash">GitHub</a>
+  
+  <br>   
+ 1+ years experienced data analytics professional possessing a prolific track record of driving user growth, boosting user retention & enhancing market share by deploying big data ecosystem components, techniques, and best practices. Adept at performing deep dive to gain actionable insights to benefit key stakeholders & facilitate sound decision-making while generating an error-free report. Proficient in data mining and data visualization to deliver compelling business value to clients & successfully execute projects.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
